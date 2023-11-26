@@ -1,0 +1,44 @@
+[
+{
+    "name":"iphone",
+    "price":154,
+    "featured":true,
+    "company":"apple"
+},
+{
+    "name":"iphone10",
+    "price":1154,
+    "featured":false,
+    "company":"apple"
+},
+{
+    "name":"watch",
+    "price":254,
+    "featured":true,
+    "company":"apple"
+},
+{
+    "name":"watch10",
+    "price":354,
+    "featured":false,
+    "company":"apple"
+},
+{
+    "name":"galaxy",
+    "price":854,
+    "featured":true,
+    "company":"samsung"
+},
+{
+    "name":"mi9prime",
+    "price":654,
+    "featured":true,
+    "company":"mi"
+},
+{
+    "name":"laptop",
+    "price":1354,
+    "featured":true,
+    "company":"dell"
+}
+]
